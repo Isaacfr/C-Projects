@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//This code simulates a vending machine
+
 float InsertMoney(float x);
 float SelectFood(float x);
 float SelectDrink(float x);
