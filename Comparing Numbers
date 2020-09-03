@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//This program compares two numbers
+
 int main()
 {
     int x;
